@@ -19,6 +19,7 @@ List of commerically and non-commerically available CAD software
   - No mac support
 - [pythonocc-core](https://github.com/tpaviot/pythonocc-core): 3D modeling and dataexchange features. It is intended to CAD/PDM/PLM/BIM development. It is based on the OpenCascade Technology modeling kernel 
   - [pythonocc demos](https://github.com/tpaviot/pythonocc-demos)
+  - [Dynamo](https://github.com/DynamoDS/Dynamo): visual programming tool that aims to be accessible to both non-programmers and programmers alike
 
 
 
