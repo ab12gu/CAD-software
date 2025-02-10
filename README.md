@@ -1,6 +1,9 @@
 # CAD-software
 List of commerically and non-commerically available CAD software
 
+# Reddit recommended to try
+- https://github.com/BRL-CAD/brlcad
+
 # Backend methods of design software
 - [Constructive solid geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 - [Boundary Representation](https://en.wikipedia.org/wiki/Boundary_representation)
